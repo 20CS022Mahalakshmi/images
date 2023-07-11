@@ -1,0 +1,68 @@
+body{
+  background: url(https://www.chennaicateringservice.com/img/services/reception/chennai-caterring-meal.webp);
+    background-size: cover;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.bk{
+    
+background-image: -moz-repeating-linear-gradient();
+background-size: auto;
+background-position: 0cap;
+opacity: 0.2px;
+background-blend-mode: 1;
+}
+.main{
+    width: 600px;
+    height: 80px;
+    margin-top: 175px;
+    background-color: brown;
+    text-transform:black;
+    text-decoration: aqua;
+    position: center;
+    margin-left: 500px;
+}
+.foods{
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    font-display: inherit;
+}
+.main h2{
+    position: absolute;
+    margin-bottom: 430px;
+    color:rgba(221, 250, 215, 0.175);
+    margin-top: 15px;
+
+}
+.main1{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 1300;
+    height: 800px;
+    background: rgba(red, green, blue, alpha);
+    margin-left: 380px;
+}
+h2{
+    margin-left: 120px;
+    margin-top: 50px;
+    color: blue;
+
+}
+.first{
+    margin-left: 60px;
+}
+.firstimage{
+    margin-left: 0px;
+    margin-top: 40px;
+}
+.second{
+    margin-top: 40px;
+}
+.image{
+    width: 150px;
+    height: 150px;
+    border-radius: 5px 5px 0px 0px;
+    margin-left: 20px;
+    margin-top: 25px;
+}
